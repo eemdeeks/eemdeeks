@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=Hello,I'm%eemdeeks!&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=Hello,I'm%eemdeeks!&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eemdeeks)](https://github.com/eemdeeks/github-readme-stats)
 
