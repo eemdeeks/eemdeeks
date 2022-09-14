@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,I'm%20eemdeeks!&fontAlign=40&fontAlignY=40&color=gradient)
+<div align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eemdeeks)](https://github.com/eemdeeks/github-readme-stats)
+## 👐🏻 Hi, I'm eemdeeks
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eemdeeks)](https://github.com/eemdeeks/github-readme-stats)
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=eemdeeks&show_icons=true&theme=dark" width = 450/>
+
+### 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 
